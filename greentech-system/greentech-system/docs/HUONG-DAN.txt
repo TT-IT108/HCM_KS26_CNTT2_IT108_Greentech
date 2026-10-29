@@ -1,0 +1,8 @@
+HUONG DAN NHANH
+- Giai nen goi ZIP.
+- Mo CMD tai thu muc greentech-system.
+- Chay scripts\auto_report.bat
+- Bao cao nam tai backup\bao-cao-su-co.txt
+- Mo data\quan-ly-thiet-bi.xlsx bang Excel.
+- Mo docs\srs-he-thong.docx bang Word; nhan Ctrl+A, F9 de cap nhat muc luc neu can.
+- .env la cau hinh gia lap, khong chua mat khau that; khong commit len GitHub.
